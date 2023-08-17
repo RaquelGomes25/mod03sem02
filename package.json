@@ -2,7 +2,7 @@
   "name": "aula-mod3sem02",
   "version": "1.0.0",
   "description": "aula mod03sem02 javascript",
-  "main": "index.js",
+  "main": "main.js",
   "directories": {
     "test": "test"
   },
